@@ -1,52 +1,50 @@
-# TechCorp | Digital Transformation Analysis
+# Joseline Jojot | Data Analytics Portfolio
 
-## Project Overview
+Psychologist transitioning into Data Analytics, with professional experience in education, psychosocial intervention, people development and information analysis.
 
-This project analyzes the evolution of TechCorp's digital transformation through operational, customer, financial, technology-adoption and workforce indicators. The objective is to determine whether the transformation is creating value and identify the main risk that could affect its sustainability.
+I am currently developing skills in data analysis and business intelligence, combining my background in psychology and organizational contexts with analytical tools to transform data into useful information for decision-making.
 
-## Business Question
+## About Me
 
-Is TechCorp's digital transformation generating enough value to justify continuing the investment, and what should the organization prioritize in the next phase?
+- Psychologist with nearly 10 years of professional experience.
+- Currently training in Data Analytics.
+- Experience in education, people development and analysis of qualitative and quantitative information.
+- Interested in Data Analytics, Business Intelligence and People Analytics.
+- Based in Chile.
 
-## Approach
+## Technical Skills
 
-The analysis compares key indicators across the period and organizes the findings into an executive data narrative. The story connects operational performance, customer experience and financial return with workforce indicators to support a management decision.
+**Data Analysis:** Excel, Python, Pandas, NumPy  
+**Databases:** SQL  
+**Visualization & BI:** Power BI  
+**Other:** Data Cleaning, Exploratory Data Analysis, Data Visualization, Data Storytelling
 
-## Key Findings
+## Projects
 
-- Productivity increased from 71.65 to 86.79.
-- Daily production increased from 447 to 611 units.
-- Defect rate decreased from 4.17% to 1.27%.
-- Cycle time decreased from 8.52 to 5.30 hours.
-- NPS increased from 42 to 66.
-- Transformation ROI moved from -15.1% to 10.9%.
-- Employee satisfaction decreased from 67 to 55.
-- Unfilled technology vacancies increased from 1 to 20.
+### TechCorp | Digital Transformation Analysis
 
-## Main Insight
+Analysis of organizational data from a digital transformation process, integrating operational, financial, customer and workforce indicators.
 
-TechCorp's digital transformation is generating measurable operational, customer and financial value. However, the next stage depends on strengthening the people and technological capabilities required to sustain those results.
+The project examines improvements in productivity, customer experience and ROI while identifying workforce capacity as a key risk for the sustainability of the transformation.
 
-## Recommendation
+**Skills demonstrated:** Data Analysis, Data Visualization, Data Storytelling, Business Insights and Executive Communication.
 
-Continue the digital investment while launching a consolidation phase focused on technology recruitment, advanced training, workload management and an executive dashboard that monitors business value and workforce sustainability together.
+[View TechCorp Project](./TechCorp_Data_Storytelling)
 
-## Skills Demonstrated
+## Currently Learning
 
-- Data analysis
-- KPI interpretation
-- Data visualization
-- Data storytelling
-- Business insight generation
-- Executive communication
+- Advanced SQL
+- Python for Data Analysis
+- Power BI
+- Data Visualization
+- Business Intelligence
 
-## Project Files
+## Professional Interests
 
-- `01_Analisis_Narrativa_TechCorp.pdf` — Executive narrative and analysis.
-- `02_Presentacion_TechCorp.pptx` — Six-slide executive presentation with visualizations.
-- `03_Storyboard_Script_TechCorp.pdf` — Visual storyboard and presentation script.
+I am particularly interested in projects where data can support organizational decision-making, process improvement and the understanding of human and business behavior.
 
-## Author
+## Contact
 
-Joseline Jojot  
-Data Analytics Portfolio
+**Joseline Jojot**
+
+LinkedIn: [Add LinkedIn URL]
